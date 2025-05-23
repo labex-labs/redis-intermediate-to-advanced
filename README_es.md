@@ -29,11 +29,21 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Ejercicios
 
-|   Índice | Nombre                                 | Dificultad   | Práctica                                                                                                                   |
-|----------|----------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Gestión Avanzada de Claves en Redis | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-advanced-key-management-552094'>Iniciar Laboratorio</a> |
-|       02 | 📖 Operaciones con Listas de Redis     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-list-operations-552098'>Iniciar Laboratorio</a>         |
-|       03 | 📖 Operaciones con Conjuntos en Redis  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-set-operations-552104'>Iniciar Laboratorio</a>          |
+|   Índice | Nombre                                     | Dificultad   | Práctica                                                                                                                   |
+|----------|--------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Gestión Avanzada de Claves en Redis     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-advanced-key-management-552094'>Iniciar Laboratorio</a> |
+|       02 | 📖 Operaciones con Listas de Redis         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-list-operations-552098'>Iniciar Laboratorio</a>         |
+|       03 | 📖 Operaciones con Conjuntos en Redis      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-set-operations-552104'>Iniciar Laboratorio</a>          |
+|       04 | 📖 Operaciones con Sorted Sets de Redis    | Principiante | Próximamente                                                                                                               |
+|       05 | 📖 Operaciones Hash de Redis               | Principiante | Próximamente                                                                                                               |
+|       06 | 📖 Transacciones en Redis                  | Principiante | Próximamente                                                                                                               |
+|       07 | 📖 Mensajería Pub/Sub de Redis             | Principiante | Próximamente                                                                                                               |
+|       08 | 📖 Scripting Lua en Redis                  | Principiante | Próximamente                                                                                                               |
+|       09 | 📖 Gestión de la Persistencia en Redis     | Principiante | Próximamente                                                                                                               |
+|       10 | 📖 Configuración de Seguridad de Redis     | Principiante | Próximamente                                                                                                               |
+|       11 | 📖 Monitorización del Rendimiento de Redis | Principiante | Próximamente                                                                                                               |
+|       12 | 📖 Operaciones de Redis HyperLogLog        | Principiante | Próximamente                                                                                                               |
+|       13 | 📖 Administración de Clústeres Redis       | Principiante | Próximamente                                                                                                               |
 
 ## Más
 
