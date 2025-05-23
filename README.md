@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Redis Intermediate to Advanced](https://cover-creator.labex.io/redis-intermediate-to-advanced.png)](https://labex.io/en/courses/redis-intermediate-to-advanced)
+[![Redis Intermediate to Advanced](https://cover-creator.labex.io/redis-intermediate-to-advanced.png)](https://labex.io/courses/redis-intermediate-to-advanced)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/redis-intermediate-to-advanced)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/redis-intermediate-to-advanced)
 
 In this course, delve into advanced Redis topics like key management, data structures (Lists, Sets, Sorted Sets, Hashes), transactions, Pub/Sub, Lua scripting, persistence, security, performance monitoring, HyperLogLog, and cluster management.
 
@@ -29,11 +29,11 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                             | Difficulty   | Practice                                                                                                         |
-|---------|----------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Redis Advanced Key Management | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/redis-redis-advanced-key-management-552094'>Start Lab</a> |
-|      02 | 📖 Redis List Operations         | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/redis-redis-list-operations-552098'>Start Lab</a>         |
-|      03 | 📖 Redis Set Operations          | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/redis-redis-set-operations-552104'>Start Lab</a>          |
+|   Index | Name                             | Difficulty   | Practice                                                                                                      |
+|---------|----------------------------------|--------------|---------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Redis Advanced Key Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-redis-advanced-key-management-552094'>Start Lab</a> |
+|      02 | 📖 Redis List Operations         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-redis-list-operations-552098'>Start Lab</a>         |
+|      03 | 📖 Redis Set Operations          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-redis-set-operations-552104'>Start Lab</a>          |
 
 ## More
 
