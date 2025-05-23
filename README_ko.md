@@ -31,13 +31,13 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                  | 난이도   | 연습                                                                                                             |
 |----------|-----------------------|----------|------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Redis 고급 키 관리 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-advanced-key-management-552094'>실습 시작</a> |
-|       02 | 📖 Redis 리스트 연산  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-list-operations-552098'>실습 시작</a>         |
-|       03 | 📖 Redis Set 연산     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-set-operations-552104'>실습 시작</a>          |
+|       01 | 📖 Redis 고급 키 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-advanced-key-management-552094'>실습 시작</a> |
+|       02 | 📖 Redis 리스트 연산  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-list-operations-552098'>실습 시작</a>         |
+|       03 | 📖 Redis Set 연산     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-set-operations-552104'>실습 시작</a>          |
 
 ## 더 보기
 
-- 🔗 [Redis Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Redis Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Redis Free Tutorials](https://github.com/labex-labs/redis-free-tutorials)
+- 🔗 [Redis 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Redis 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Redis 무료 튜토리얼](https://github.com/labex-labs/redis-free-tutorials)
 
