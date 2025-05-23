@@ -34,6 +34,16 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |       01 | 📖 Gerenciamento Avançado de Chaves no Redis | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-advanced-key-management-552094'>Iniciar Lab</a> |
 |       02 | 📖 Operações em Listas no Redis              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-list-operations-552098'>Iniciar Lab</a>         |
 |       03 | 📖 Operações com Conjuntos no Redis          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-set-operations-552104'>Iniciar Lab</a>          |
+|       04 | 📖 Operações com Sorted Set no Redis         | Iniciante     | Em Breve                                                                                                           |
+|       05 | 📖 Operações de Hash no Redis                | Iniciante     | Em Breve                                                                                                           |
+|       06 | 📖 Transações Redis                          | Iniciante     | Em Breve                                                                                                           |
+|       07 | 📖 Mensageria Pub/Sub do Redis               | Iniciante     | Em Breve                                                                                                           |
+|       08 | 📖 Scripting Lua no Redis                    | Iniciante     | Em Breve                                                                                                           |
+|       09 | 📖 Gerenciamento de Persistência do Redis    | Iniciante     | Em Breve                                                                                                           |
+|       10 | 📖 Configurações de Segurança do Redis       | Iniciante     | Em Breve                                                                                                           |
+|       11 | 📖 Monitoramento de Desempenho do Redis      | Iniciante     | Em Breve                                                                                                           |
+|       12 | 📖 Operações HyperLogLog no Redis            | Iniciante     | Em Breve                                                                                                           |
+|       13 | 📖 Gerenciamento de Cluster Redis            | Iniciante     | Em Breve                                                                                                           |
 
 ## Mais
 
