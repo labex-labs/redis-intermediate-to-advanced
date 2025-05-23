@@ -31,13 +31,13 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Index | Nom                                   | Difficulté   | Pratique                                                                                                                |
 |---------|---------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Gestion avancée des clés Redis     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-advanced-key-management-552094'>Commencer le Lab</a> |
-|      02 | 📖 Opérations sur les listes Redis    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-list-operations-552098'>Commencer le Lab</a>         |
-|      03 | 📖 Opérations sur les ensembles Redis | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-set-operations-552104'>Commencer le Lab</a>          |
+|      01 | 📖 Gestion avancée des clés Redis     | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-advanced-key-management-552094'>Commencer le Lab</a> |
+|      02 | 📖 Opérations sur les listes Redis    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-list-operations-552098'>Commencer le Lab</a>         |
+|      03 | 📖 Opérations sur les ensembles Redis | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-set-operations-552104'>Commencer le Lab</a>          |
 
 ## Plus
 
-- 🔗 [Redis Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Redis Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Redis Free Tutorials](https://github.com/labex-labs/redis-free-tutorials)
+- 🔗 [Redis Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Redis Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Redis Tutoriels Gratuits](https://github.com/labex-labs/redis-free-tutorials)
 
