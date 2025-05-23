@@ -29,11 +29,21 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 연습
 
-|   인덱스 | 이름                  | 난이도   | 연습                                                                                                             |
-|----------|-----------------------|----------|------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Redis 고급 키 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-advanced-key-management-552094'>실습 시작</a> |
-|       02 | 📖 Redis 리스트 연산  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-list-operations-552098'>실습 시작</a>         |
-|       03 | 📖 Redis Set 연산     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-set-operations-552104'>실습 시작</a>          |
+|   인덱스 | 이름                      | 난이도   | 연습                                                                                                             |
+|----------|---------------------------|----------|------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Redis 고급 키 관리     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-advanced-key-management-552094'>실습 시작</a> |
+|       02 | 📖 Redis 리스트 연산      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-list-operations-552098'>실습 시작</a>         |
+|       03 | 📖 Redis Set 연산         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-set-operations-552104'>실습 시작</a>          |
+|       04 | 📖 Redis Sorted Set 연산  | 초급     | 곧 출시                                                                                                          |
+|       05 | 📖 Redis 해시 연산        | 초급     | 곧 출시                                                                                                          |
+|       06 | 📖 Redis 트랜잭션         | 초급     | 곧 출시                                                                                                          |
+|       07 | 📖 Redis Pub/Sub 메시징   | 초급     | 곧 출시                                                                                                          |
+|       08 | 📖 Redis Lua 스크립팅     | 초급     | 곧 출시                                                                                                          |
+|       09 | 📖 Redis 지속성 관리      | 초급     | 곧 출시                                                                                                          |
+|       10 | 📖 Redis 보안 설정        | 초급     | 곧 출시                                                                                                          |
+|       11 | 📖 Redis 성능 모니터링    | 초급     | 곧 출시                                                                                                          |
+|       12 | 📖 Redis HyperLogLog 연산 | 초급     | 곧 출시                                                                                                          |
+|       13 | 📖 Redis 클러스터 관리    | 초급     | 곧 출시                                                                                                          |
 
 ## 더 보기
 
