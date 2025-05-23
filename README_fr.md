@@ -29,11 +29,21 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                   | Difficulté   | Pratique                                                                                                                |
-|---------|---------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Gestion avancée des clés Redis     | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-advanced-key-management-552094'>Commencer le Lab</a> |
-|      02 | 📖 Opérations sur les listes Redis    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-list-operations-552098'>Commencer le Lab</a>         |
-|      03 | 📖 Opérations sur les ensembles Redis | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-set-operations-552104'>Commencer le Lab</a>          |
+|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                |
+|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Gestion avancée des clés Redis                        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-advanced-key-management-552094'>Commencer le Lab</a> |
+|      02 | 📖 Opérations sur les listes Redis                       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-list-operations-552098'>Commencer le Lab</a>         |
+|      03 | 📖 Opérations sur les ensembles Redis                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-set-operations-552104'>Commencer le Lab</a>          |
+|      04 | 📖 Opérations sur les ensembles triés Redis (Sorted S... | Débutant     | Bientôt Disponible                                                                                                      |
+|      05 | 📖 Opérations sur les Hachages Redis                     | Débutant     | Bientôt Disponible                                                                                                      |
+|      06 | 📖 Transactions Redis                                    | Débutant     | Bientôt Disponible                                                                                                      |
+|      07 | 📖 Messagerie Pub/Sub Redis                              | Débutant     | Bientôt Disponible                                                                                                      |
+|      08 | 📖 Scripting Lua avec Redis                              | Débutant     | Bientôt Disponible                                                                                                      |
+|      09 | 📖 Gestion de la persistance Redis                       | Débutant     | Bientôt Disponible                                                                                                      |
+|      10 | 📖 Paramètres de sécurité Redis                          | Débutant     | Bientôt Disponible                                                                                                      |
+|      11 | 📖 Surveillance des performances Redis                   | Débutant     | Bientôt Disponible                                                                                                      |
+|      12 | 📖 Opérations Redis HyperLogLog                          | Débutant     | Bientôt Disponible                                                                                                      |
+|      13 | 📖 Gestion de Cluster Redis                              | Débutant     | Bientôt Disponible                                                                                                      |
 
 ## Plus
 
