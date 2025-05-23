@@ -29,11 +29,21 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 ## Übungen
 
-|   Index | Name                                     | Schwierigkeit   | Übung                                                                                                                |
-|---------|------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Redis: Erweiterte Schlüsselverwaltung | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-advanced-key-management-552094'>Labor Starten</a> |
-|      02 | 📖 Redis Listenoperationen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-list-operations-552098'>Labor Starten</a>         |
-|      03 | 📖 Redis Set-Operationen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-set-operations-552104'>Labor Starten</a>          |
+|   Index | Name                                                 | Schwierigkeit   | Übung                                                                                                                |
+|---------|------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Redis: Erweiterte Schlüsselverwaltung             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-advanced-key-management-552094'>Labor Starten</a> |
+|      02 | 📖 Redis Listenoperationen                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-list-operations-552098'>Labor Starten</a>         |
+|      03 | 📖 Redis Set-Operationen                             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-set-operations-552104'>Labor Starten</a>          |
+|      04 | 📖 Redis Sorted Set Operationen (Sortierte Mengen)   | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      05 | 📖 Redis Hash Operationen                            | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      06 | 📖 Redis Transaktionen                               | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      07 | 📖 Redis Pub/Sub Nachrichtenübermittlung (Messaging) | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      08 | 📖 Redis Lua Scripting                               | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      09 | 📖 Redis Persistenzmanagement                        | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      10 | 📖 Redis Sicherheitseinstellungen                    | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      11 | 📖 Redis Leistungsüberwachung                        | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      12 | 📖 Redis HyperLogLog Operationen                     | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      13 | 📖 Redis Cluster Verwaltung                          | Anfänger        | Demnächst Verfügbar                                                                                                  |
 
 ## Mehr
 
