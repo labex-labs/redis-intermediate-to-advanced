@@ -29,11 +29,21 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 练习
 
-|   序号 | 名称                | 难度   | 练习                                                                                                            |
-|--------|---------------------|--------|-----------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 Redis 高级键管理 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-advanced-key-management-552094'>开始实验</a> |
-|     02 | 📖 Redis 列表操作   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-list-operations-552098'>开始实验</a>         |
-|     03 | 📖 Redis 集合操作   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-set-operations-552104'>开始实验</a>          |
+|   序号 | 名称                       | 难度   | 练习                                                                                                            |
+|--------|----------------------------|--------|-----------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 Redis 高级键管理        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-advanced-key-management-552094'>开始实验</a> |
+|     02 | 📖 Redis 列表操作          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-list-operations-552098'>开始实验</a>         |
+|     03 | 📖 Redis 集合操作          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-set-operations-552104'>开始实验</a>          |
+|     04 | 📖 Redis 有序集合操作      | 初级   | 即将推出                                                                                                        |
+|     05 | 📖 Redis 哈希操作          | 初级   | 即将推出                                                                                                        |
+|     06 | 📖 Redis 事务              | 初级   | 即将推出                                                                                                        |
+|     07 | 📖 Redis 发布/订阅消息传递 | 初级   | 即将推出                                                                                                        |
+|     08 | 📖 Redis Lua 脚本          | 初级   | 即将推出                                                                                                        |
+|     09 | 📖 Redis 持久化管理        | 初级   | 即将推出                                                                                                        |
+|     10 | 📖 Redis 安全设置          | 初级   | 即将推出                                                                                                        |
+|     11 | 📖 Redis 性能监控          | 初级   | 即将推出                                                                                                        |
+|     12 | 📖 Redis HyperLogLog 操作  | 初级   | 即将推出                                                                                                        |
+|     13 | 📖 Redis 集群管理          | 初级   | 即将推出                                                                                                        |
 
 ## 更多
 
