@@ -34,6 +34,16 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      01 | 📖 Redis Advanced Key Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-redis-advanced-key-management-552094'>Start Lab</a> |
 |      02 | 📖 Redis List Operations         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-redis-list-operations-552098'>Start Lab</a>         |
 |      03 | 📖 Redis Set Operations          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-redis-set-operations-552104'>Start Lab</a>          |
+|      04 | 📖 Redis Sorted Set Operations   | Beginner     | Coming Soon                                                                                                   |
+|      05 | 📖 Redis Hash Operations         | Beginner     | Coming Soon                                                                                                   |
+|      06 | 📖 Redis Transactions            | Beginner     | Coming Soon                                                                                                   |
+|      07 | 📖 Redis Pub/Sub Messaging       | Beginner     | Coming Soon                                                                                                   |
+|      08 | 📖 Redis Lua Scripting           | Beginner     | Coming Soon                                                                                                   |
+|      09 | 📖 Redis Persistence Management  | Beginner     | Coming Soon                                                                                                   |
+|      10 | 📖 Redis Security Settings       | Beginner     | Coming Soon                                                                                                   |
+|      11 | 📖 Redis Performance Monitoring  | Beginner     | Coming Soon                                                                                                   |
+|      12 | 📖 Redis HyperLogLog Operations  | Beginner     | Coming Soon                                                                                                   |
+|      13 | 📖 Redis Cluster Management      | Beginner     | Coming Soon                                                                                                   |
 
 ## More
 
