@@ -29,11 +29,21 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 ## 演習
 
-|   インデックス | 名前                    | 難易度   | 練習                                                                                                              |
-|----------------|-------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Redis 高度なキー管理 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-redis-advanced-key-management-552094'>ラボを開始</a> |
-|             02 | 📖 Redis リスト操作     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-redis-list-operations-552098'>ラボを開始</a>         |
-|             03 | 📖 Redis Set 操作       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-redis-set-operations-552104'>ラボを開始</a>          |
+|   インデックス | 名前                            | 難易度   | 練習                                                                                                              |
+|----------------|---------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 Redis 高度なキー管理         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-redis-advanced-key-management-552094'>ラボを開始</a> |
+|             02 | 📖 Redis リスト操作             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-redis-list-operations-552098'>ラボを開始</a>         |
+|             03 | 📖 Redis Set 操作               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-redis-set-operations-552104'>ラボを開始</a>          |
+|             04 | 📖 Redis Sorted Set 操作        | 初級     | 近日公開                                                                                                          |
+|             05 | 📖 Redis ハッシュ操作           | 初級     | 近日公開                                                                                                          |
+|             06 | 📖 Redis トランザクション       | 初級     | 近日公開                                                                                                          |
+|             07 | 📖 Redis Pub/Sub メッセージング | 初級     | 近日公開                                                                                                          |
+|             08 | 📖 Redis Lua スクリプト         | 初級     | 近日公開                                                                                                          |
+|             09 | 📖 Redis の永続性管理           | 初級     | 近日公開                                                                                                          |
+|             10 | 📖 Redis セキュリティ設定       | 初級     | 近日公開                                                                                                          |
+|             11 | 📖 Redis パフォーマンス監視     | 初級     | 近日公開                                                                                                          |
+|             12 | 📖 Redis HyperLogLog 操作       | 初級     | 近日公開                                                                                                          |
+|             13 | 📖 Redis クラスタ管理           | 初級     | 近日公開                                                                                                          |
 
 ## その他
 
