@@ -13,6 +13,23 @@ Neste curso, aprofunde-se em tópicos avançados do Redis, como gerenciamento de
 ![Redis](https://img.shields.io/badge/Redis-whitesmoke?style=for-the-badge&logo=redis)
 
 
+## Exercícios
+
+|   Índice | Nome                                            | Dificuldade   | Prática                                                                                                            |
+|----------|-------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Gerenciamento Avançado de Chaves no Redis | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-advanced-key-management-552094'>Iniciar Lab</a> |
+|       02 | 📖 🟢 Operações em Listas no Redis              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-list-operations-552098'>Iniciar Lab</a>         |
+|       03 | 📖 🟢 Operações com Conjuntos no Redis          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-set-operations-552104'>Iniciar Lab</a>          |
+|       04 | 📖 🟢 Operações com Sorted Set no Redis         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-sorted-set-operations-552105'>Iniciar Lab</a>   |
+|       05 | 📖 🟢 Operações de Hash no Redis                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-hash-operations-552096'>Iniciar Lab</a>         |
+|       06 | 📖 🟢 Transações Redis                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-transactions-552106'>Iniciar Lab</a>            |
+|       07 | 📖 🟢 Mensageria Pub/Sub do Redis               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-pub-sub-messaging-552102'>Iniciar Lab</a>       |
+|       08 | 📖 🟢 Scripting Lua no Redis                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-lua-scripting-552099'>Iniciar Lab</a>           |
+|       09 | 📖 🟢 Gerenciamento de Persistência do Redis    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-persistence-management-552101'>Iniciar Lab</a>  |
+|       10 | 📖 🟢 Configurações de Segurança do Redis       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-security-settings-552103'>Iniciar Lab</a>       |
+|       11 | 📖 🟢 Monitoramento de Desempenho do Redis      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-performance-monitoring-552100'>Iniciar Lab</a>  |
+|       12 | 📖 🟢 Operações HyperLogLog no Redis            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-hyperloglog-operations-552097'>Iniciar Lab</a>  |
+
 ## Ambiente
 
 LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
@@ -23,27 +40,9 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercícios
-
-|   Índice | Nome                                         | Dificuldade   | Prática                                                                                                            |
-|----------|----------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Gerenciamento Avançado de Chaves no Redis | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-advanced-key-management-552094'>Iniciar Lab</a> |
-|       02 | 📖 Operações em Listas no Redis              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-list-operations-552098'>Iniciar Lab</a>         |
-|       03 | 📖 Operações com Conjuntos no Redis          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/redis-redis-set-operations-552104'>Iniciar Lab</a>          |
-|       04 | 📖 Operações com Sorted Set no Redis         | Iniciante     | Em Breve                                                                                                           |
-|       05 | 📖 Operações de Hash no Redis                | Iniciante     | Em Breve                                                                                                           |
-|       06 | 📖 Transações Redis                          | Iniciante     | Em Breve                                                                                                           |
-|       07 | 📖 Mensageria Pub/Sub do Redis               | Iniciante     | Em Breve                                                                                                           |
-|       08 | 📖 Scripting Lua no Redis                    | Iniciante     | Em Breve                                                                                                           |
-|       09 | 📖 Gerenciamento de Persistência do Redis    | Iniciante     | Em Breve                                                                                                           |
-|       10 | 📖 Configurações de Segurança do Redis       | Iniciante     | Em Breve                                                                                                           |
-|       11 | 📖 Monitoramento de Desempenho do Redis      | Iniciante     | Em Breve                                                                                                           |
-|       12 | 📖 Operações HyperLogLog no Redis            | Iniciante     | Em Breve                                                                                                           |
-|       13 | 📖 Gerenciamento de Cluster Redis            | Iniciante     | Em Breve                                                                                                           |
 
 ## Mais
 
