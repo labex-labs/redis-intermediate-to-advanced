@@ -22,13 +22,14 @@
 |     03 | 📖 🟢 Redis 集合操作          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-set-operations-552104'>开始实验</a>          |
 |     04 | 📖 🟢 Redis 有序集合操作      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-sorted-set-operations-552105'>开始实验</a>   |
 |     05 | 📖 🟢 Redis 哈希操作          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-hash-operations-552096'>开始实验</a>         |
-|     06 | 📖 🟢 Redis 事务              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-transactions-552106'>开始实验</a>            |
-|     07 | 📖 🟢 Redis 发布/订阅消息传递 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-pub-sub-messaging-552102'>开始实验</a>       |
-|     08 | 📖 🟢 Redis Lua 脚本          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-lua-scripting-552099'>开始实验</a>           |
-|     09 | 📖 🟢 Redis 持久化管理        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-persistence-management-552101'>开始实验</a>  |
-|     10 | 📖 🟢 Redis 安全设置          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-security-settings-552103'>开始实验</a>       |
-|     11 | 📖 🟢 Redis 性能监控          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-performance-monitoring-552100'>开始实验</a>  |
-|     12 | 📖 🟢 Redis HyperLogLog 操作  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-hyperloglog-operations-552097'>开始实验</a>  |
+|     06 | 📖 🔵 Redis 事务              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-transactions-552106'>开始实验</a>            |
+|     07 | 📖 🔵 Redis 发布/订阅消息传递 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-pub-sub-messaging-552102'>开始实验</a>       |
+|     08 | 📖 🔵 Redis Lua 脚本          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-lua-scripting-552099'>开始实验</a>           |
+|     09 | 📖 🔵 Redis 持久化管理        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-persistence-management-552101'>开始实验</a>  |
+|     10 | 📖 🔵 Redis 安全设置          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-security-settings-552103'>开始实验</a>       |
+|     11 | 📖 🔵 Redis 性能监控          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-performance-monitoring-552100'>开始实验</a>  |
+|     12 | 📖 🔵 Redis HyperLogLog 操作  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/redis-redis-hyperloglog-operations-552097'>开始实验</a>  |
+|     13 | 📖 🔵 Redis 集群管理          | 初级   | 即将推出                                                                                                        |
 
 ## 学习环境
 
