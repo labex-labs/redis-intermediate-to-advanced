@@ -22,13 +22,14 @@ In diesem Kurs vertiefen Sie Ihr Wissen über fortgeschrittene Redis-Themen wie 
 |      03 | 📖 🟢 Redis Set-Operationen                             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-set-operations-552104'>Labor Starten</a>          |
 |      04 | 📖 🟢 Redis Sorted Set Operationen (Sortierte Mengen)   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-sorted-set-operations-552105'>Labor Starten</a>   |
 |      05 | 📖 🟢 Redis Hash Operationen                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-hash-operations-552096'>Labor Starten</a>         |
-|      06 | 📖 🟢 Redis Transaktionen                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-transactions-552106'>Labor Starten</a>            |
-|      07 | 📖 🟢 Redis Pub/Sub Nachrichtenübermittlung (Messaging) | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-pub-sub-messaging-552102'>Labor Starten</a>       |
-|      08 | 📖 🟢 Redis Lua Scripting                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-lua-scripting-552099'>Labor Starten</a>           |
-|      09 | 📖 🟢 Redis Persistenzmanagement                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-persistence-management-552101'>Labor Starten</a>  |
-|      10 | 📖 🟢 Redis Sicherheitseinstellungen                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-security-settings-552103'>Labor Starten</a>       |
-|      11 | 📖 🟢 Redis Leistungsüberwachung                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-performance-monitoring-552100'>Labor Starten</a>  |
-|      12 | 📖 🟢 Redis HyperLogLog Operationen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-hyperloglog-operations-552097'>Labor Starten</a>  |
+|      06 | 📖 🔵 Redis Transaktionen                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-transactions-552106'>Labor Starten</a>            |
+|      07 | 📖 🔵 Redis Pub/Sub Nachrichtenübermittlung (Messaging) | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-pub-sub-messaging-552102'>Labor Starten</a>       |
+|      08 | 📖 🔵 Redis Lua Scripting                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-lua-scripting-552099'>Labor Starten</a>           |
+|      09 | 📖 🔵 Redis Persistenzmanagement                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-persistence-management-552101'>Labor Starten</a>  |
+|      10 | 📖 🔵 Redis Sicherheitseinstellungen                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-security-settings-552103'>Labor Starten</a>       |
+|      11 | 📖 🔵 Redis-Leistungsüberwachung                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-performance-monitoring-552100'>Labor Starten</a>  |
+|      12 | 📖 🔵 Redis HyperLogLog Operationen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-hyperloglog-operations-552097'>Labor Starten</a>  |
+|      13 | 📖 🔵 Redis Cluster Verwaltung                          | Anfänger        | Demnächst Verfügbar                                                                                                  |
 
 ## Umgebung
 
