@@ -22,13 +22,14 @@ Dans ce cours, plongez dans des sujets Redis avancés tels que la gestion des cl
 |      03 | 📖 🟢 Opérations sur les ensembles Redis                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-set-operations-552104'>Commencer le Lab</a>          |
 |      04 | 📖 🟢 Opérations sur les ensembles triés Redis (Sorted S... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-sorted-set-operations-552105'>Commencer le Lab</a>   |
 |      05 | 📖 🟢 Opérations sur les Hachages Redis                     | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-hash-operations-552096'>Commencer le Lab</a>         |
-|      06 | 📖 🟢 Transactions Redis                                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-transactions-552106'>Commencer le Lab</a>            |
-|      07 | 📖 🟢 Messagerie Pub/Sub Redis                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-pub-sub-messaging-552102'>Commencer le Lab</a>       |
-|      08 | 📖 🟢 Scripting Lua avec Redis                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-lua-scripting-552099'>Commencer le Lab</a>           |
-|      09 | 📖 🟢 Gestion de la persistance Redis                       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-persistence-management-552101'>Commencer le Lab</a>  |
-|      10 | 📖 🟢 Paramètres de sécurité Redis                          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-security-settings-552103'>Commencer le Lab</a>       |
-|      11 | 📖 🟢 Surveillance des performances Redis                   | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-performance-monitoring-552100'>Commencer le Lab</a>  |
-|      12 | 📖 🟢 Opérations Redis HyperLogLog                          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-hyperloglog-operations-552097'>Commencer le Lab</a>  |
+|      06 | 📖 🔵 Transactions Redis                                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-transactions-552106'>Commencer le Lab</a>            |
+|      07 | 📖 🔵 Messagerie Pub/Sub Redis                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-pub-sub-messaging-552102'>Commencer le Lab</a>       |
+|      08 | 📖 🔵 Scripting Lua avec Redis                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-lua-scripting-552099'>Commencer le Lab</a>           |
+|      09 | 📖 🔵 Gestion de la persistance Redis                       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-persistence-management-552101'>Commencer le Lab</a>  |
+|      10 | 📖 🔵 Paramètres de sécurité Redis                          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-security-settings-552103'>Commencer le Lab</a>       |
+|      11 | 📖 🔵 Surveillance des performances de Redis                | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-performance-monitoring-552100'>Commencer le Lab</a>  |
+|      12 | 📖 🔵 Opérations Redis HyperLogLog                          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-redis-hyperloglog-operations-552097'>Commencer le Lab</a>  |
+|      13 | 📖 🔵 Gestion de Cluster Redis                              | Débutant     | Bientôt Disponible                                                                                                      |
 
 ## Environnement
 
