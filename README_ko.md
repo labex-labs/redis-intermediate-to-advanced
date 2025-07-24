@@ -22,13 +22,14 @@
 |       03 | 📖 🟢 Redis Set 연산         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-set-operations-552104'>실습 시작</a>          |
 |       04 | 📖 🟢 Redis Sorted Set 연산  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-sorted-set-operations-552105'>실습 시작</a>   |
 |       05 | 📖 🟢 Redis 해시 연산        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-hash-operations-552096'>실습 시작</a>         |
-|       06 | 📖 🟢 Redis 트랜잭션         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-transactions-552106'>실습 시작</a>            |
-|       07 | 📖 🟢 Redis Pub/Sub 메시징   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-pub-sub-messaging-552102'>실습 시작</a>       |
-|       08 | 📖 🟢 Redis Lua 스크립팅     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-lua-scripting-552099'>실습 시작</a>           |
-|       09 | 📖 🟢 Redis 지속성 관리      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-persistence-management-552101'>실습 시작</a>  |
-|       10 | 📖 🟢 Redis 보안 설정        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-security-settings-552103'>실습 시작</a>       |
-|       11 | 📖 🟢 Redis 성능 모니터링    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-performance-monitoring-552100'>실습 시작</a>  |
-|       12 | 📖 🟢 Redis HyperLogLog 연산 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-hyperloglog-operations-552097'>실습 시작</a>  |
+|       06 | 📖 🔵 Redis 트랜잭션         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-transactions-552106'>실습 시작</a>            |
+|       07 | 📖 🔵 Redis Pub/Sub 메시징   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-pub-sub-messaging-552102'>실습 시작</a>       |
+|       08 | 📖 🔵 Redis Lua 스크립팅     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-lua-scripting-552099'>실습 시작</a>           |
+|       09 | 📖 🔵 Redis 지속성 관리      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-persistence-management-552101'>실습 시작</a>  |
+|       10 | 📖 🔵 Redis 보안 설정        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-security-settings-552103'>실습 시작</a>       |
+|       11 | 📖 🔵 Redis 성능 모니터링    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-performance-monitoring-552100'>실습 시작</a>  |
+|       12 | 📖 🔵 Redis HyperLogLog 연산 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-redis-hyperloglog-operations-552097'>실습 시작</a>  |
+|       13 | 📖 🔵 Redis 클러스터 관리    | 초급     | 곧 출시                                                                                                          |
 
 ## 환경
 
