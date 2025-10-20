@@ -15,35 +15,24 @@ En este curso, profundice en temas avanzados de Redis como la gestión de claves
 
 ## Ejercicios
 
-|   Índice | Nombre                                        | Dificultad   | Práctica                                                                                                                   |
-|----------|-----------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Gestión Avanzada de Claves en Redis     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-advanced-key-management-552094'>Iniciar Laboratorio</a> |
-|       02 | 📖 🟢 Operaciones con Listas de Redis         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-list-operations-552098'>Iniciar Laboratorio</a>         |
-|       03 | 📖 🟢 Operaciones con Conjuntos en Redis      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-set-operations-552104'>Iniciar Laboratorio</a>          |
-|       04 | 📖 🟢 Operaciones con Sorted Sets de Redis    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-sorted-set-operations-552105'>Iniciar Laboratorio</a>   |
-|       05 | 📖 🟢 Operaciones Hash de Redis               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-hash-operations-552096'>Iniciar Laboratorio</a>         |
-|       06 | 📖 🔵 Transacciones en Redis                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-transactions-552106'>Iniciar Laboratorio</a>            |
-|       07 | 📖 🔵 Mensajería Pub/Sub de Redis             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-pub-sub-messaging-552102'>Iniciar Laboratorio</a>       |
-|       08 | 📖 🔵 Scripting Lua en Redis                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-lua-scripting-552099'>Iniciar Laboratorio</a>           |
-|       09 | 📖 🔵 Gestión de Persistencia de Redis        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-persistence-management-552101'>Iniciar Laboratorio</a>  |
-|       10 | 📖 🔵 Configuración de Seguridad de Redis     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-security-settings-552103'>Iniciar Laboratorio</a>       |
-|       11 | 📖 🔵 Monitorización del Rendimiento de Redis | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-performance-monitoring-552100'>Iniciar Laboratorio</a>  |
-|       12 | 📖 🔵 Operaciones de Redis HyperLogLog        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-hyperloglog-operations-552097'>Iniciar Laboratorio</a>  |
-|       13 | 📖 🔵 Administración de Clústeres Redis       | Principiante | Próximamente                                                                                                               |
+|   Índice | Nombre                                      | Dificultad   | Práctica                                                                                                                   |
+|----------|---------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 Gestión Avanzada de Claves en Redis   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-advanced-key-management-552094'>Iniciar Laboratorio</a> |
+|       02 | 📖 🆓 Operaciones con Listas de Redis       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-list-operations-552098'>Iniciar Laboratorio</a>         |
+|       03 | 📖 🆓 Operaciones con Conjuntos en Redis    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-set-operations-552104'>Iniciar Laboratorio</a>          |
+|       04 | 📖 🆓 Operaciones con Sorted Sets de Redis  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-sorted-set-operations-552105'>Iniciar Laboratorio</a>   |
+|       05 | 📖 🆓 Operaciones Hash de Redis             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-hash-operations-552096'>Iniciar Laboratorio</a>         |
+|       06 | 📖  Transacciones de Redis                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-transactions-552106'>Iniciar Laboratorio</a>            |
+|       07 | 📖  Mensajería Pub/Sub de Redis             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-pub-sub-messaging-552102'>Iniciar Laboratorio</a>       |
+|       08 | 📖  Scripting Lua en Redis                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-lua-scripting-552099'>Iniciar Laboratorio</a>           |
+|       09 | 📖  Gestión de Persistencia de Redis        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-persistence-management-552101'>Iniciar Laboratorio</a>  |
+|       10 | 📖  Configuración de Seguridad de Redis     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-security-settings-552103'>Iniciar Laboratorio</a>       |
+|       11 | 📖  Monitorización del Rendimiento de Redis | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-performance-monitoring-552100'>Iniciar Laboratorio</a>  |
+|       12 | 📖  Operaciones de Redis HyperLogLog        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/redis-redis-hyperloglog-operations-552097'>Iniciar Laboratorio</a>  |
 
-## Entorno
+## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Un enfoque estricto de "Aprender Haciendo" con laboratorios prácticos exclusivos y sin videos.
-- Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
-- Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
-- Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
