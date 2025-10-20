@@ -15,35 +15,24 @@ In diesem Kurs vertiefen Sie Ihr Wissen über fortgeschrittene Redis-Themen wie 
 
 ## Übungen
 
-|   Index | Name                                                    | Schwierigkeit   | Übung                                                                                                                |
-|---------|---------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 Redis: Erweiterte Schlüsselverwaltung             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-advanced-key-management-552094'>Labor Starten</a> |
-|      02 | 📖 🟢 Redis Listenoperationen                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-list-operations-552098'>Labor Starten</a>         |
-|      03 | 📖 🟢 Redis Set-Operationen                             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-set-operations-552104'>Labor Starten</a>          |
-|      04 | 📖 🟢 Redis Sorted Set Operationen (Sortierte Mengen)   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-sorted-set-operations-552105'>Labor Starten</a>   |
-|      05 | 📖 🟢 Redis Hash Operationen                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-hash-operations-552096'>Labor Starten</a>         |
-|      06 | 📖 🔵 Redis Transaktionen                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-transactions-552106'>Labor Starten</a>            |
-|      07 | 📖 🔵 Redis Pub/Sub Nachrichtenübermittlung (Messaging) | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-pub-sub-messaging-552102'>Labor Starten</a>       |
-|      08 | 📖 🔵 Redis Lua Scripting                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-lua-scripting-552099'>Labor Starten</a>           |
-|      09 | 📖 🔵 Redis Persistenzmanagement                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-persistence-management-552101'>Labor Starten</a>  |
-|      10 | 📖 🔵 Redis Sicherheitseinstellungen                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-security-settings-552103'>Labor Starten</a>       |
-|      11 | 📖 🔵 Redis-Leistungsüberwachung                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-performance-monitoring-552100'>Labor Starten</a>  |
-|      12 | 📖 🔵 Redis HyperLogLog Operationen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-hyperloglog-operations-552097'>Labor Starten</a>  |
-|      13 | 📖 🔵 Redis Cluster Verwaltung                          | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|   Index | Name                                                  | Schwierigkeit   | Übung                                                                                                                |
+|---------|-------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🆓 Redis: Erweiterte Schlüsselverwaltung           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-advanced-key-management-552094'>Labor Starten</a> |
+|      02 | 📖 🆓 Redis Listenoperationen                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-list-operations-552098'>Labor Starten</a>         |
+|      03 | 📖 🆓 Redis Set-Operationen                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-set-operations-552104'>Labor Starten</a>          |
+|      04 | 📖 🆓 Redis Sorted Set Operationen (Sortierte Mengen) | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-sorted-set-operations-552105'>Labor Starten</a>   |
+|      05 | 📖 🆓 Redis Hash Operationen                          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-hash-operations-552096'>Labor Starten</a>         |
+|      06 | 📖  Redis Transaktionen                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-transactions-552106'>Labor Starten</a>            |
+|      07 | 📖  Redis Pub/Sub Messaging                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-pub-sub-messaging-552102'>Labor Starten</a>       |
+|      08 | 📖  Redis Lua Scripting                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-lua-scripting-552099'>Labor Starten</a>           |
+|      09 | 📖  Redis Persistenzmanagement                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-persistence-management-552101'>Labor Starten</a>  |
+|      10 | 📖  Redis Sicherheitseinstellungen                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-security-settings-552103'>Labor Starten</a>       |
+|      11 | 📖  Redis-Leistungsüberwachung                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-performance-monitoring-552100'>Labor Starten</a>  |
+|      12 | 📖  Redis HyperLogLog Operationen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/redis-redis-hyperloglog-operations-552097'>Labor Starten</a>  |
 
-## Umgebung
+## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Ein strikter "Learning by Doing"-Ansatz mit exklusiven praktischen Laboren ohne Videos.
-- Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
-- Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
-- Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
-
-Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
